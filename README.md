@@ -1,8 +1,6 @@
 # parallel_bitonic_sort
 Performs bitonic sort parallely
 
-
-Abhay Vivek Kulkarni (ak6277@rit.edu)
 # Bitonic Sort
 
 ## Code parameters:
